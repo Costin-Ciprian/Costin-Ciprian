@@ -4,7 +4,8 @@
 
 - 🌱 I’m currently developing my software manual testing skills, but also my hobby towards wooden manual crafts.
 
-- 📫 I can be reached via e-mail at: cipriot08@gmail.com 
+- 📫 I can be reached via e-mail at:  cipriot08@gmail.com 
+                     via LinkedIn at: https://www.linkedin.com/in/costin-ciprian-ardelean-145a24102/
 
 <!---
 Costin-Ciprian/Costin-Ciprian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
